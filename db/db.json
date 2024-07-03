@@ -1,0 +1,109 @@
+{
+  "users-info": {
+    "code": 200,
+    "data": {
+      "username": "admin",
+      "roles": ["admin"]
+    },
+    "message": "获取用户详情成功"
+  },
+  "table-get": {
+    "code": 200,
+    "data": {
+      "total": 100,
+      "list": [
+        {
+          "id": "320000200410262718",
+          "username": "Barbara Anderson",
+          "phone": "16485621423",
+          "email": "p.uiwfgpa@sgrsjwpt.mq",
+          "roles": "editor",
+          "status": false,
+          "createTime": "1992-02-10 03:57:50"
+        },
+        {
+          "id": "650000200202277647",
+          "username": "Mark Garcia",
+          "phone": "18388870857",
+          "email": "o.gmxwrh@gtzqpri.jp",
+          "roles": "editor",
+          "status": false,
+          "createTime": "2017-02-05 02:42:11"
+        },
+        {
+          "id": "50000019730329684X",
+          "username": "Melissa Miller",
+          "phone": "14836577465",
+          "email": "k.qcahby@defgqilca.at",
+          "roles": "admin",
+          "status": true,
+          "createTime": "1992-08-29 13:57:54"
+        },
+        {
+          "id": "990000199208144389",
+          "username": "Jose Hernandez",
+          "phone": "17288415811",
+          "email": "f.ifmdttbn@dqpyf.et",
+          "roles": "editor",
+          "status": false,
+          "createTime": "1989-02-13 05:18:29"
+        },
+        {
+          "id": "440000199007237522",
+          "username": "Amy White",
+          "phone": "17937596457",
+          "email": "d.rdwdiq@vwfdxu.cz",
+          "roles": "editor",
+          "status": false,
+          "createTime": "2016-02-06 05:14:13"
+        },
+        {
+          "id": "710000197402011183",
+          "username": "Shirley Davis",
+          "phone": "18041554953",
+          "email": "s.xgwzbes@hfbywrszxd.af",
+          "roles": "editor",
+          "status": true,
+          "createTime": "1983-01-13 11:44:34"
+        },
+        {
+          "id": "82000020151214132X",
+          "username": "Jennifer Hernandez",
+          "phone": "18173303911",
+          "email": "w.fdmn@yeien.tt",
+          "roles": "editor",
+          "status": true,
+          "createTime": "1991-12-19 01:20:51"
+        },
+        {
+          "id": "420000198610267218",
+          "username": "Laura Lopez",
+          "phone": "14687396181",
+          "email": "x.dkupg@grhxj.su",
+          "roles": "admin",
+          "status": false,
+          "createTime": "2011-03-26 19:51:54"
+        },
+        {
+          "id": "540000198906264785",
+          "username": "Eric Hall",
+          "phone": "16522445145",
+          "email": "n.yhdxhvuzc@dxlmc.al",
+          "roles": "admin",
+          "status": false,
+          "createTime": "1973-03-24 09:32:21"
+        },
+        {
+          "id": "50000019860506183X",
+          "username": "Brian Hall",
+          "phone": "19911610171",
+          "email": "w.jevsmii@ddjudwtlj.cr",
+          "roles": "admin",
+          "status": true,
+          "createTime": "1979-02-15 06:50:51"
+        }
+      ]
+    },
+    "message": "获取表格数据成功"
+  }
+}
